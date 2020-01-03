@@ -9,3 +9,8 @@ Create all relevant bookings for one month of factoring transactions (October 20
 on Abc’s factoring platform. Feel free to make simplifying assumptions where
 necessary. We care about how you structure your workings as much as the
 correctness of your solution.
+# Resources
+invoice data extracts
+chart of accounts
+bank data extracts
+journal entry template
